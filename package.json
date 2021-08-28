@@ -8,7 +8,7 @@
     "deploy": "hexo deploy",
     "server": "hexo server"
   },
-  "hexo": {
+  "欢迎来到我的个人博客": {
     "version": "5.4.0"
   },
   "dependencies": {
